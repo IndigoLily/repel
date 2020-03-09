@@ -1,0 +1,16 @@
+html {
+    overflow: hidden;
+    background-color: #000;
+}
+
+body {
+    margin: 0;
+}
+
+#cnv {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 3px solid #fff;
+}
